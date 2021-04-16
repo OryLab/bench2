@@ -1,0 +1,24 @@
+CentOS7 (x86_64) AMD Ryzen 5 PRO 2400GE
+CPU time: 176316 (usec)
+CPU score: 36.767599
+Thread CPU time: 939164 (usec)
+Thread CPU score: 2.300882
+Filesystem time: 539229 (usec)
+Filesystem score: 18.544997
+
+macOS Big Sur MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+CPU time: 147587 (usec)
+CPU score: 43.924709
+Thread CPU time: 2132803 (usec)
+Thread CPU score: 1.013176
+Filesystem time: 4477409 (usec)
+Filesystem score: 2.233435
+
+Tinker Board S (arm)
+CPU time: 541976 (usec)
+CPU score: 11.961260
+Thread CPU time: 4936206 (usec)
+Thread CPU score: 0.437766
+Filesystem time: 1908723 (usec)
+Filesystem score: 5.239105
+
