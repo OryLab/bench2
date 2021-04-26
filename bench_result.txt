@@ -22,3 +22,10 @@ Thread CPU score: 0.437766
 Filesystem time: 1908723 (usec)
 Filesystem score: 5.239105
 
+RasPi arm32
+CPU time: 867714 (usec)
+CPU score: 7.471028
+Thread CPU time: 5915294 (usec)
+Thread CPU score: 0.365308
+Filesystem time: 4307546 (usec)
+Filesystem score: 2.321507
